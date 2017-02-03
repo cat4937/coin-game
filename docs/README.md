@@ -1,6 +1,6 @@
 # coin-game
 
-![ゲーム画面](docs/images/koin.png)
+![ゲーム画面](images/koin.png)
 
 <a href="https://cat4937.github.io/coin-game/" target="_blank">ゲームで遊ぶ</a>
 
